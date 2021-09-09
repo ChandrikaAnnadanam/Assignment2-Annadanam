@@ -32,3 +32,7 @@ The following table states the data about the favourite food, drinks, locations,
 |Amount   |40-50     |50-60   |60-70 |
 ---
 Quotes1
+>Something is better than nothing.
+>Author: *NA*
+>Keep Smiling and make people Smile!
+>Author: *Somebody*
