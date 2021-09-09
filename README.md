@@ -34,5 +34,6 @@ The following table states the data about the favourite food, drinks, locations,
 Quotes1
 >Something is better than nothing.
 >Author: *NA*
+---
 >Keep Smiling and make people Smile!
 >Author: *Somebody*
