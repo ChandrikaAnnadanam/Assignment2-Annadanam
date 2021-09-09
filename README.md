@@ -18,5 +18,17 @@ That's because **the states have it's own style and culture**
 * Waterfalls
 * Music
 * Nature 
+**[linkAboutMe.md](AboutMe.md)**
+---
+# creating a table about food/drinks
 
-
+Introduction:
+The following table states the data about the favourite food, drinks, locations, amount to be paid, etc.,.
+|Mandatory|Fav1      |Fav2    |Fav3 |
+|:-------:| :----:   | :----: |:----|
+|Food     |Pasta     |Pizza   |Veggies|
+|Location |Vijayawada|Vizag   |Tirupathi|
+|Type     |LessSpicy |Sweet   |Salty |
+|Amount   |40-50     |50-60   |60-70 |
+---
+Quotes1
